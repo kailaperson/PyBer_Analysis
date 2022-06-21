@@ -10,11 +10,12 @@ The following image is the DataFrame that holds the ride-sharing statistics for 
   
   - Suburban cities have the middle amount of statistics.
 
-*insert image of pyber_summary_df*
+![Screen Shot 2022-06-20 at 8 34 45 PM](https://user-images.githubusercontent.com/97639454/174710846-83b51fd4-ed3e-41d8-ac72-65c1f608b97d.png)
+
 
 The following image is of the mutliple line plot which displays the total fare by city type. This shows that the city type that generates the highest fare are Urban cities, followed by Suburban, then Rural. 
 
-*insert image of line chart* 
+![PyBer_fare_summary](https://user-images.githubusercontent.com/97639454/174710229-6dc9ef08-d368-4f2a-8808-ae7e87bef6de.png)
 
 ## Summary
 Three business recommendations to address the disparties among the city types is the following: 
